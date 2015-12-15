@@ -1,0 +1,23 @@
+<linker>
+	<assembly fullname="Assembly-UnityScript">
+		<type fullname="openlevels">
+			<method name="onClick"/>
+		</type>
+		<type fullname="opencontrols">
+			<method name="onClick"/>
+		</type>
+		<type fullname="opencredits">
+			<method name="onClick"/>
+		</type>
+		<type fullname="returntomenu">
+			<method name="onClick"/>
+			<method name="onClick"/>
+			<method name="onClick"/>
+			<method name="onClick"/>
+			<method name="onClick"/>
+		</type>
+		<type fullname="run_game">
+			<method name="onClick"/>
+		</type>
+	</assembly>
+</linker>
